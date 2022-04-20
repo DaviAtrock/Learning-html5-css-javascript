@@ -1,4 +1,3 @@
-![logo](https://user-images.githubusercontent.com/103908152/164323600-bea904ba-2cd9-4702-8b7c-e90123ed9887.jpg)
 # Learning-html5-css-javascript
 These are some of my current learning exercises from the College.
 
