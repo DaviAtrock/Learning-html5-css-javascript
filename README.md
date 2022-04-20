@@ -4,7 +4,6 @@ These are some of my current learning exercises from the College.
 index.html
 
 <!DOCTYPE html>
-![logo](https://user-images.githubusercontent.com/103908152/164323360-f3bc8547-63bb-4f61-8a9e-1e16176fc89f.jpg)
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
