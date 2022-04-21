@@ -172,3 +172,4 @@ body {background-color: white;}
 .nav ul li a {color: white; padding: 05px;} 
 .text-container {text-align: center; display: flex; align-items: center; justify-content: center; height: 50px;}
 img {max-width: 100%; max-height: 100%; display: block; margin-left: auto; margin-right: auto;}
+form {margin: auto; width: 400px; text-align: center;}
