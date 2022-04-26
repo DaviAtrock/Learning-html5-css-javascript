@@ -2,6 +2,7 @@ body {
     background-color: white;
     padding: 0;
     margin: 0;
+    background-image: url(../img/background.jpg);
 }
 .nav {
     height: 90px; 
