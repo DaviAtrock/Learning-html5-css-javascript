@@ -91,4 +91,27 @@ img.caminhoes {
 }
 .textsobre {
     color: lightseagreen;
+}  
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+.column img {
+    margin-top: 200px;
+} 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+} 
+.row1:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column1 {
+    float: left;
+    width: 25%;
+    padding: 5px;
 }
