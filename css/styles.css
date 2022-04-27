@@ -19,6 +19,7 @@ body {
 .nav ul li a {
     color: white; 
     padding: 05px;
+    font-family:'Times New Roman', Times, serif;
 } 
 img {
     max-width: 100%; 
@@ -99,6 +100,7 @@ img.caminhoes {
 }
 .column img {
     margin-top: 200px;
+    margin-left: 400px;
 } 
 .row:after {
     content: "";
