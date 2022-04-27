@@ -47,10 +47,11 @@ form {
 .tabela-precos {
     margin: auto; 
     border-collapse: collapse; 
-    min-width: 400px; 
+    min-width: 1000px; 
     border-radius: 5px 5px 0 0; 
     overflow: hidden; 
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    font-family: Arial, Helvetica, sans-serif;color: #0a8d86;
 }
 .tabela-precos thead tr {
     background-color: #488b88; 
@@ -59,7 +60,7 @@ form {
     font-weight: bold;
 }
 .tabela-precos th, td {
-    padding: 12px 15px;
+    padding: 20px 35px;
 }
 .tabela-precos tbody tr {
     border-bottom: 1px solid #dddddd;
@@ -70,9 +71,9 @@ form {
 .tabela-precos tbody tr:last-of-type {
     border-bottom: 2px solid #488b88;
 }
-iframe.video {
-    display: block; 
-    margin-left: 1100px;
+.container {
+    display: flex;
+    align-items: center;
 }
 img.quemsomos {
     max-height: 315px;
@@ -88,10 +89,9 @@ img.caminhoes {
 }
 .par1 {
     margin-left: auto;
-    margin-right: 900px;
 }
 .textsobre {
-    color: lightseagreen;
+    color: crimson;
 }  
 .column {
     float: left;
@@ -99,8 +99,8 @@ img.caminhoes {
     padding: 5px;
 }
 .column img {
-    margin-top: 200px;
-    margin-left: 400px;
+    margin-top: 50px;
+    margin-left: 450px;
 } 
 .row:after {
     content: "";
@@ -118,6 +118,9 @@ img.caminhoes {
     padding: 5px;
 }
 .column1 img {
-    margin-top: 200px;
+    margin-top: 100px;
     margin-left: 400px;
+}
+h1 {
+    text-align: center;color: crimson;
 }
