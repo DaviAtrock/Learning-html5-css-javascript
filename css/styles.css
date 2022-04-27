@@ -117,3 +117,7 @@ img.caminhoes {
     width: 25%;
     padding: 5px;
 }
+.column1 img {
+    margin-top: 200px;
+    margin-left: 400px;
+}
